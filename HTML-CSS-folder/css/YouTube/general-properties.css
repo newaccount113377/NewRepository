@@ -1,0 +1,16 @@
+p{
+  font-family: Roboto, Arial;
+}
+
+.channel{
+  vertical-align: top;
+  display: inline-block;
+  width: 36px;
+  border-radius: 18px;
+  object-fit: contain;
+}
+
+.main-body{
+  display: grid;
+  grid-column: 64px, 1fr;
+}

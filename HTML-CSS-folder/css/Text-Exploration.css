@@ -1,0 +1,18 @@
+.first-text {
+  text-align: center;
+  font-family: Nova Square;
+  font-size: 20px;
+  /* font-weight: bolder; */
+  /* font-style: italic; */
+}
+
+.hover-underline {
+  transition: text-decoration 4s;
+  text-decoration: none;
+}
+
+
+.hover-underline:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
